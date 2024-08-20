@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esepiply.github.io/sitemap.html.gz
+Sitemap: https://esepiply.github.io/app/sitemap.html.gz
+Sitemap: https://esepiply.github.io/assets/sitemap.html.gz
+Sitemap: https://esepiply.github.io/css/sitemap.html.gz
+Sitemap: https://esepiply.github.io/includes/sitemap.html.gz
+Sitemap: https://esepiply.github.io/item/sitemap.html.gz
+Sitemap: https://esepiply.github.io/src/sitemap.html.gz
